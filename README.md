@@ -1,5 +1,6 @@
 # task-4
-# This repository contains a Power BI Sales and Profit Dashboard that provides detailed insights into sales and profit trends across regions, product categories, and time periods. The dashboard is designed for business stakeholders to make data-driven decisions effectively.
+# Power BI Sales and Profit Dashboard
+This repository contains a Power BI Sales and Profit Dashboard that provides detailed insights into sales and profit trends across regions, product categories, and time periods. The dashboard is designed for business stakeholders to make data-driven decisions effectively.
 
 Features
 
